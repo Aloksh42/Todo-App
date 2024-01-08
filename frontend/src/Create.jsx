@@ -2,7 +2,7 @@ import React from 'react'
 
 const Create = () => {
   return (
-    <div>
+    <div className='create_form'>
       <input type="text" name='' id=''/>
       <button type='button'>Add</button>
     </div>
